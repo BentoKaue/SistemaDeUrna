@@ -3,7 +3,7 @@ public class Main {
         System.out.printf("os %d viados%n", 6);
         System.out.println("Lula Fraco");
         System.out.printf("os %d viados%n", 6);
-
+        System.out.println("Lula Fraco");
     }
 
 }
