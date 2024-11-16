@@ -4,6 +4,7 @@ public class Main {
         System.out.println("Lula Fraco");
         System.out.printf("os %d viados%n", 6);
         System.out.printf("os %d viados%n", 6);
+        System.out.printf("os %d viados%n", 6);
     }
 
 }
